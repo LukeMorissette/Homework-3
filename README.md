@@ -50,3 +50,5 @@ I wanted to research the development of the programming language Lean. By doing 
 - **Official Lean Documentation:** [Lean Documentation](https://lean-lang.org/documentation/)
 - **Mathlib GitHub Repository:** [Mathlib Repository](https://github.com/leanprover-community/mathlib)
 - **Microsoft Research Papers:** [Lean Project Page at Microsoft Research](https://www.microsoft.com/en-us/research/project/lean/)
+- **Lean Community Blog:** [Lean Community Blog](https://leanprover-community.github.io/blog/)
+
